@@ -1,0 +1,33 @@
+/* camera.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  video {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
